@@ -30,8 +30,8 @@ Este proyecto utiliza `npm` y fue empaquetado con Vite. Sigue estos pasos para c
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/osc-scope-mo1227.git
-   cd osc-scope-mo1227
+   git clone [[https://github.com/TittoCode/osciloscopio.git]
+   cd osciloscopio
    ```
 
 2. **Instalar dependencias:**
